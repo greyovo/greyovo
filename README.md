@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying for a master's degree in SCNU
-- 🔍 My research is focused on Large Language Model & Knowledge Graph
-- ⭐ I’m interested in mobile / front-end development and user experience (UI/UX).
-- 📖 Learning `ReactJS`, `TypeScript` and `Android` development.
+- 🌱 Currently studying for a master's degree in SCNU
+- 🔍 Large Language Model & Knowledge Graph
+- ⭐ Being interested in mobile / front-end development and user experience (UI/UX).
+- 📖 Learning `React`, `TypeScript` and `Android` development.
 - 🩵 In favor of `Flutter` :)
 - 📫 How to reach me: grey030@foxmail.com
 
