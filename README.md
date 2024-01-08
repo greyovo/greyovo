@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, this is @greyovo :D
 
 - 🌱 Currently studying for a master's degree in SCNU
 - 🔍 Large Language Model & Knowledge Graph
