@@ -10,6 +10,6 @@
 ### Technology Stack: 
 
 - Python, JavaScript, Java, Dart, Kotlin, and HTML/CSS
-- Vue, Flutter, Jetpack Compose, and Wechat Mini Program
+- React, Vue, Flutter, Jetpack Compose, and Wechat Mini Program
 - SpringBoot, and MySQL
 - PyTorch, and ONNX
