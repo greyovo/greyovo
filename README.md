@@ -3,7 +3,7 @@
 - 🌱 Currently studying for a master's degree in SCNU
 - ⭐ Being interested in mobile / front-end development and user experience (UI/UX).
 - 📖 Learning `React`, `TypeScript` and `Android` development.
-- 🩵 In favor of `Flutter` :)
+- 🩵 In favourite of `Flutter` :)
 
 ### Technology Stack: 
 
